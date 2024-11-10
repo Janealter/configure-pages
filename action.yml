@@ -1,5 +1,5 @@
-name: 'Configure GitHub Pages (Next JS fixed)'
-description: 'A GitHub Action to enable Pages, extract various metadata about a site, and configure some supported static site generators. Fixed for Next JS'
+name: 'Configure GitHub Pages (Next.js wrapped config support)'
+description: 'The same as https://github.com/actions/configure-pages but with support for Next JS wrapped config'
 author: 'Janealter'
 runs:
   using: 'node20'
